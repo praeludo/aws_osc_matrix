@@ -1,0 +1,4 @@
+requests
+pdfminer.six
+bs4
+openpyxl
