@@ -6,7 +6,7 @@ Retrieve the list of API calls from Cloud providers to compare API compatibility
 
 ### Prerequisites
 
-* Python 3.5
+* Python 3.6
 * requests
 * PDFminer
 * BeautifulSoup
@@ -20,10 +20,11 @@ pip install -r requierements.txt
 ```
 
 ### Usage
+```
 python aws_osc_matrix
+```
 
-
-## License
+### License
 
 This project is licensed under the MIT License - see the LICENSE file for details
-Tested with Python 3.6
+
